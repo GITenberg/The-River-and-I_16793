@@ -1,0 +1,31 @@
+_repo: The-River-and-I_16793
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Neihardt, John G.
+    alias: Neihardt, John Gneisenau
+    birthdate: 1881
+    deathdate: 1973
+    gutenberg_agent_id: '6935'
+    url: http://www.gutenberg.org/2009/agents/6935
+    wikipedia: http://en.wikipedia.org/wiki/John_Neihardt
+description: ''
+gutenberg_issued: '2005-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16793'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Neihardt, John Gneisenau, 1881-1973 -- Travel -- Yellowstone River'
+- !lcsh 'Missouri River -- Description and travel'
+- !lcc 'F590.3'
+- !lcsh 'Neihardt, John Gneisenau, 1881-1973 -- Travel -- Missouri River'
+- !lcsh 'Yellowstone River -- Description and travel'
+title: The River and I
+url: http://www.gutenberg.org/ebooks/16793
