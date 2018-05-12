@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6935
     wikipedia: http://en.wikipedia.org/wiki/John_Neihardt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16793#The-River-and-I
 gutenberg_issued: '2005-10-03'
 gutenberg_type: Text
 identifiers:
